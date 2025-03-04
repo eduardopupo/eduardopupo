@@ -8,5 +8,5 @@
 [![eduardopupo GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eduardopupo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/eduardopupo/github-readme-stats#gh-light-mode-only)
 #
 
-####  "A educação é o passaporte para o futuro, pois o amanhã pertence àqueles que se preparam para ele hoje." - Malcolm X
+####  “*Dá-me sabedoria e conhecimento*, para que eu possa liderar esta nação, pois quem pode governar este teu grande povo?” - 2Crônicas 1:10
 
