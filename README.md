@@ -8,5 +8,4 @@
 [![eduardopupo GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eduardopupo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/eduardopupo/github-readme-stats#gh-light-mode-only)
 #
 
-####  “Dá-me sabedoria e conhecimento [...]” - Salomão, 2Crônicas 1:10
 
